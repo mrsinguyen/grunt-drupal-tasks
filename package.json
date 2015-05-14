@@ -1,7 +1,7 @@
 {
   "name": "grunt-drupal-tasks",
   "description": "Grunt-based build and testing tasks for Drupal projects.",
-  "version": "0.6.0-pre",
+  "version": "0.6.0",
   "main": "bootstrap.js",
   "dependencies": {
     "grunt-available-tasks": "0.5.7",
@@ -14,6 +14,7 @@
     "grunt-contrib-symlink": "0.3.0",
     "grunt-contrib-watch": "0.6.1",
     "grunt-drush": "0.0.6",
+    "grunt-log-headers": "^1.0.1",
     "grunt-mkdir": "0.1.2",
     "grunt-newer": "1.1.0",
     "grunt-notify": "git+https://github.com/grayside/grunt-notify.git#0.5.0",
